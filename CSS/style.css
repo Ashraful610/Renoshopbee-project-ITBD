@@ -7,3 +7,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.discount-div{
+    background: linear-gradient(rgba(44,48,65,.244) ,rgba(44,48,65,.244) ,rgba(44,48,65,.244 ), rgba(44, 48, 65, .244)) , url('../images/cover.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
